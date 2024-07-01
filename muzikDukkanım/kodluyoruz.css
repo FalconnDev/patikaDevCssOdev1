@@ -1,0 +1,20 @@
+
+.content {
+    text-align:center;
+}
+
+h1{
+    color: brown; 
+}
+h2{
+    color: blue;
+}
+h3{
+    color: gold;
+}
+
+
+ul, ol{
+    list-style-position: inside;
+}
+
